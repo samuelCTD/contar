@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(69, 33, 102);
+    color: #fff;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+section{
+    background-color: #fff;
+    width: 80%;
+    max-width: 500px;
+    margin-inline: auto;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+section div{
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+
+#resposta{
+    transition: 0.3s;
+}
